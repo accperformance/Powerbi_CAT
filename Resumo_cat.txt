@@ -1,0 +1,111 @@
+Ola;
+
+Preciso montar uma apresentação que relacione a montagem de Dashboards em Power BI para as soluções abaixo da CAT e gostaria de demonstrar conhecimento tanto de BI como das soluções e considerar como fremework a metodologia COPC e ainda metodo AGil Scrum para o desenvolvimento dos Dashboards.
+
+Consegue montar em Topicos e divididos em slides como se fosse uma apresentação tecnica e comercial para esse projeto?
+
+Se possivel tambem já desenhar os sprints com as historias considerando sprints quinzenais? 
+
+Finalizar com duvidas e proximos passos
+
+CAT pepleo insights
+SOBRE
+Evolua para a Inteligência Omnichannel
+A CAT "Customer Analytics Tool" é uma ferramenta que fornece insights para empresas tomarem decisões inteligentes, ajudando-as a enxergarem o Big Data de forma clara e simplificada nas interações que ocorrem da sua  marca com o mercado e seus cliente.
+
+Descubra pra que serve a CAT e como ela é aplicada no dia a dia do seu negócio
+Saiba como o Big Data pode alavancar o seu negócio através de Customer Analytics
+
+A CAT solucionou a complexidade do Big Data Dados são cada vez mais importantes no mercado atual e se tornaram peça-chave para orientar a tomada de decisão e o planejamento estratégico de empresas de todos os segmentos.
+No entanto, para transformar essas informações em conhecimento e vantagens competitivas de verdade, é preciso que as organizações saibam, primeiro, como extrair, organizar e analisar todos esses dados.
+
+E para que as empresas não precisem se preocupar com toda esta complexidade que nós desenvolvemos a CAT
+
+Atuando no seu negócio
+O objetivo da CAT é transformar o Big Data e a Ciência de Dados em algo fácil de entender e útil para o seu negócio, contribuindo para que seus principais times estratégicos tomem decisões melhores e possam empenhar mais tempo sendo criativos e inovadores.
+
+Vendas
+	Perfis de Clientes
+
+Marketing
+	Conteúdos para Marcas
+	Monitoramento de Temas Alternativos
+	Análises de Concorrentes
+
+Gente e Gestão
+	People Analítics
+
+Compliance
+	Gestão de Reputação
+
+O mundo hoje trabalha com dados
+Entenda como funcionam as ferramentas de negócios da CAT:
+
+SOLUCAO
+A solução ideal para exponenciar a sua estratégia
+
+A CAT é uma solução de Inteligência Artificial que analisa todos os canais de interação da sua empresa com clientes e o mercado, fornecendo dados que geram insights sobre Vendas, Marketing e Compliance.
+
+A ferramenta idel para a sua estratégia
+Descubra para que serve a CAT e como ela é aplicada no dia a dia
+
+Como funciona a inteligência omnichannel da CAT ?
+
+A CAT é uma ferramenta que coleta dados de voz ou texto de diversas fontes da sua empresa, desde que sejam canais de interação.
+
+Utilizando uma Inteligência Artificial e outras tecnologias cognitivas, a ferramenta enquadra as principais informações em um dashboard visual, de modo a oferecer um panorama claro, simplificado e intuitivo sobre seus  clientes, produtos, serviços e concorrentes.
+
+Este panorama permitirá que os principais times estratégicos da sua organização tenham uma ideia mais precisa do seu negócio, permitindo a tomada de decisões mais inteligentes, o aproveitamento de oportunidades, a antecipação de
+tendências e a mitigação de riscos reputacionais associados à sua marca.
+
+O seu desafio é a nossa expertise
+
+Navegue pelas soluções da CAT e descubra como elas podem ajudar o seu negócio:
+
+Ferramenta de Marketing
+Conteúdo para marcas
+A CAT monitora todos os canais de relacionamento da sua marca com o cliente para aproveitar a riqueza de informações disponibilizadas espontaneamente em cada interação.
+
+A inteligência artificial da ferramenta elenca tópicos, palavras-chave, menções e outros termos relacionados à sua marca, fornecendo insights valiosos para o seu time elaborar estratégias de relacionamento e de marketing de conteúdo com alto potencial de engajamento.
+
+Ferramenta de Marketing
+Análise de Concorrentes
+A CAT auxilia o seu time a monitorar amplamente as ações de marketing e posicionamento das marcas concorrentes em canais de relacionamento.
+
+A inteligência artificial da ferramenta elenca tópicos, palavras-chave, menções e outros termos relacionados à marca do seu concorrente, fornecendo insights valiosos sobre táticas e estratégias de relacionamento que são positivas ou negativas em seu segmento, em contextos específicos ou assuntos sazonais.
+
+Entenda como seus concorrentes estão se posicionando, qual é a performance e os resultados dessas táticas e como seus clientes estão reagindo à essas ações. E então, adapte a sua própria estratégia de relacionamento.
+
+Ferramenta de Marketing
+Monitoramento de temas alternativos
+A CAT auxilia a sua marca a construir uma reputação positiva e autêntica na perspectiva de responsabilidade social, ambiental e de governança.
+
+A ferramenta facilita o entendimento de demandas coletivas e a prática de ações voluntárias em prol da sociedade.
+
+Garanta que o discurso da sua empresa em todos os canais de interação com o cliente e através de seus colaboradores sejam íntegros, únicos e reforcem o compromisso da sua marca com temas alternativos e de interesse dos cidadãos.
+
+Ferramenta de Compliance
+Gestão de Reputação
+Acompanhe em tempo real a imagem da sua marca perante o público.
+
+Cada vez mais as pessoas compartilham com seus seguidores as suas boas ou más experiências em relação às marcas.
+
+A Inteligência Artificial da CAT monitora todas as vezes que a sua marca é citada em canais de relacionamento, identificando o contexto de cada um desses comentários.
+
+Com isso, seu time poderá agir rapidamente para aproveitar oportunidades, reduzir eventuais danos à imagem da ou prevenir possíveis crises.
+
+Ferramenta de Vendas
+Perfís de Clientes
+A CAT auxilia o seu time a entender, com profundidade, o perfil e as demandas do seu público-alvo, tendo como premissa os discursos e as interações que ocorrem espontaneamente com cada um deles.
+
+Crie estratégias de relacionamento e posicionamento eficientes tendo como base a própria voz do cliente e não mais sugestões ou pesquisas amostrais.
+
+Estabeleça conexões mais profundas e autênticas com dados sobre a persona dos seus clientes, perfis detratores, promotores, informações demográficas, geográficas e outros contextos específicos do seu segmento.
+
+Ferramenta de Gente e Gestão
+People Analytics
+A CAT auxilia a sua empresa a construir times altamente comprometidos com os objetivos do seu negócio e aderentes à sua cultura organizacional.
+
+A inteligência artificial da ferramenta analisa toda a sua jornada de recrutamento, seleção e retenção de talentos, para identificar padrões e comportamentos em toda a equipe de “Gente e Gestão”.
+
+Esta analise vai muito além do benefício de assertividade na seleção de pessoas, porque enxerga dados invisíveis e não estruturados, fornecendo insights detalhados sobre a cultura da sua empresa, seus modelos de liderança, perfis psicográficos e sobre o engajamento de todas as pessoas que compõem o seu time e movem o seu negócio.
